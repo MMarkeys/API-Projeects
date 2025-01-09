@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "REDSTACK",
+    "description": "Extensions for PyRevit",
+    "author": "Mark",
+    "author_profile": "https://github.com/MMarkeys",
+    "url": "https://github.com/MMarkeys/API-Projeects.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
